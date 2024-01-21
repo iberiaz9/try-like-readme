@@ -5,7 +5,7 @@
 <td>
 Like me!
 
-[<a href="https://github.com/iberiaz9/Readme-Like-Button/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
+[<a href="https://github.com/iberiaz9/try-like-readme/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
 
 <sub><b><i>Like counter: 55</i></b></sub>
 
@@ -13,8 +13,8 @@ Like me!
 
 Like me, and unlike me!
 
-[<a href="https://github.com/iberiaz9/Readme-Like-Button/issues/new?assignees=&labels=like-mutable&template=like-mutable.yaml&title=Add+new+like%21+%28mutable%29">👍</a>]
-[<a href="https://github.com/iberiaz9/Readme-Like-Button/issues/new?assignees=&labels=unlike-mutable&template=unlike-mutable.yml&title=I+want+to+Unlike%21">👎</a>]
+[<a href="https://github.com/iberiaz9/try-like-readme/issues/new?assignees=&labels=like-mutable&template=like-mutable.yaml&title=Add+new+like%21+%28mutable%29">👍</a>]
+[<a href="https://github.com/iberiaz9/try-like-readme/issues/new?assignees=&labels=unlike-mutable&template=unlike-mutable.yml&title=I+want+to+Unlike%21">👎</a>]
 
 <sub><b><i>Like counter: 14</i></b></sub>
 
@@ -36,4 +36,4 @@ Please, let us know if:
 * you find a way to withdraw your like (when dislike is not implemented)
 * anything you think that could be relevant
 
-Report [here](https://github.com/iberiaz9/Readme-Like-Button/issues/new?assignees=&labels=bug-bounty&template=bug-bounty.yml&title=%5BBug+Bounty%5D%3A+)
+Report [here](https://github.com/iberiaz9/try-like-readme/issues/new?assignees=&labels=bug-bounty&template=bug-bounty.yml&title=%5BBug+Bounty%5D%3A+)
