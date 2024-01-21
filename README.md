@@ -7,7 +7,7 @@ Like me!
 
 [<a href="https://github.com/iberiaz9/try-like-readme/issues/new?assignees=&labels=like&template=like.yml&title=Add+new+like%21">👍</a>]
 
-<sub><b><i>Like counter: 55</i></b></sub>
+<sub><b><i>Like counter: 2</i></b></sub>
 
 <hr size=15px color="ff5733" width=70%>
 
